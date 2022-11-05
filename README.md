@@ -34,4 +34,4 @@ There are 4 sections in this course.
 
 ## Authors 
 
-* **Sriyank Siddhartha** 
+* **Saurav Aryan** 
